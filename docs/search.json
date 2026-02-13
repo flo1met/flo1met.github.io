@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Florian Metwaly",
-    "section": "",
-    "text": "Hi!\nI am a a research master’s student at Utrecht University in Methodology and Statistics for the Behavioral, Biomedical and Social Sciences, with a keen interest in causal inference, Bayesian statistics, and computational methods. My current work focuses on developing and applying innovative methodologies for Target Trial Emulation and Bayesian Evidence Synthesis. I am passionate about bridging theoretical advancements with real-world applications, particularly in healthcare and social sciences."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -14,17 +7,10 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Florian Metwaly",
-    "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Florian Metwaly",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018\ntest"
+    "section": "",
+    "text": "Hi!\nI am a PhD student in the Psychological Methods Group at the University of Amsterdam and a member of the Bayesian Graphical Modeling Lab. My research focuses on Bayesian methods for intensive longitudinal data, with particular interests in computation, network modeling, and causality. I aim to make all my research and software openly available as open source."
   }
 ]
