@@ -20,5 +20,5 @@ about:
 
 # Hi!
 
-I am a PhD student in the Psychological Methods Group at the University of Amsterdam and a member of the B[ayesian Graphical Modeling Lab](https://bayesiangraphicalmodeling.com/). My research focuses on Bayesian methods for intensive longitudinal data, with particular interests in computation, network modeling, and causality.
+I am a PhD student in the Psychological Methods Group at the University of Amsterdam and a member of the [Bayesian Graphical Modeling Lab](https://bayesiangraphicalmodeling.com/). My research focuses on Bayesian methods for intensive longitudinal data, with particular interests in computation, network modeling, and causality.
 I aim to make all my research and software openly available as open source.
