@@ -1,0 +1,8 @@
+---
+title: "Publications"
+format: html
+---
+
+## Preprints
+
+- Metwaly, F., Edmar, B. A., Veen, D., & Klugkist, I. (2026). *Bayesian Evidence Synthesis: Aggregating Evidence from Partially Overlapping Hypotheses* [Preprint]. PsyArXiv. <https://doi.org/10.31234/osf.io/87z5g_v1>

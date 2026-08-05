@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: publications.qmd
+        text: Publications
       - href: CV_2026_GitHub.pdf
         text: Curriculum Vitae
 
