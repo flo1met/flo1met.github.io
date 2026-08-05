@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Florian Metwaly",
+    "section": "",
+    "text": "Hi!\nI am a PhD student in the Psychological Methods Group at the University of Amsterdam and a member of the Bayesian Graphical Modeling Lab. My research focuses on Bayesian methods for intensive longitudinal data, with particular interests in computation, network modeling, and causality. I aim to make all my research and software openly available as open source."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -7,10 +14,17 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Florian Metwaly",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "Hi!\nI am a PhD student in the Psychological Methods Group at the University of Amsterdam and a member of the Bayesian Graphical Modeling Lab. My research focuses on Bayesian methods for intensive longitudinal data, with particular interests in computation, network modeling, and causality. I aim to make all my research and software openly available as open source."
+    "text": "Metwaly, F., Edmar, B. A., Veen, D., & Klugkist, I. (2026). Bayesian Evidence Synthesis: Aggregating Evidence from Partially Overlapping Hypotheses [Preprint]. PsyArXiv. https://doi.org/10.31234/osf.io/87z5g_v1"
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "",
+    "text": "Metwaly, F., Edmar, B. A., Veen, D., & Klugkist, I. (2026). Bayesian Evidence Synthesis: Aggregating Evidence from Partially Overlapping Hypotheses [Preprint]. PsyArXiv. https://doi.org/10.31234/osf.io/87z5g_v1"
   }
 ]
